@@ -1,0 +1,8 @@
+[
+	"Abu Mena.txt",
+	"Ancient Thebes with its Necropolis.txt",
+	"Historic Cairo.txt",
+	"Memphis and its Necropolis - the Pyramid Fields from Giza to Dahshur.txt",
+	"Nubian Monuments from Abu Simbel to Philae.txt",
+	"Saint Catherine Area.txt"
+]
