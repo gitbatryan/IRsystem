@@ -46,6 +46,27 @@ These documents were either crawled programmatically or manually collected and s
 - **`test_dataset/`**  
   A small evaluation dataset containing 40 selected UNESCO World Heritage site files for testing purposes.
 
+  ### Ground Truth for Evaluation
+
+Each search model is evaluated using ground truth files that specify relevant documents for each query.
+
+The ground truth files are organized as follows:
+
+- `ground_truth_Korea/`  
+  Contains relevance labels for experiments using Korea-related UNESCO documents.
+
+- `ground_truth_all/`  
+  Contains relevance labels for experiments using the full set of 1,224 UNESCO World Heritage sites.
+
+- `ground_truth_test/`  
+  Contains relevance labels for experiments using the 40-document test dataset.
+
+Each query is saved as a `.txt` file where:
+- The **filename** is the query
+- The **content** is in **JSON format**, specifying the filenames of relevant documents.
+
+These ground truth files are used by the evaluation scripts to calculate **precision**, **recall**, and **F1-score** for each retrieval model.
+
 ---
 
 ## Python Files Overview
