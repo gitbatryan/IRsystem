@@ -1,0 +1,7 @@
+[
+	"Cheongsong UNESCO Global Geopark.txt",
+	"Hantangang River UNESCO Global Geopark.txt",
+	"Jeju Island UNESCO Global Geopark.txt",
+	"Jeonbuk West Coast UNESCO Global Geopark.txt",
+	"Mudeungsan UNESCO Global Geopark.txt"
+]
