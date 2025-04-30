@@ -14,7 +14,7 @@ The goal is to allow travelers to:
 
 This system can also serve as an educational tool.  
 Students can use it to explore and learn about a wide range of UNESCO World Heritage sites around the world.  
-By entering country names or descriptive queries, they can discover historical, cultural, and natural sites, making it useful for school projects, research, or general knowledge-building.
+By entering country names or descriptive queries, they can discover historical and natural sites, making it useful for school projects, research, or general knowledge-building.
 
 It encourages curiosity about global heritage and provides a hands-on way to interact with structured information.
 
