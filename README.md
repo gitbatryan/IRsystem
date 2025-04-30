@@ -26,6 +26,19 @@ To build this project, data was collected from the following sources:
 
 These documents were either crawled programmatically or manually collected and stored as `.txt` files.
 
+### Folder Structure inside `lsi_dataset/`
+
+- **`Korea/`**  
+  Contains datasets related to Korea's UNESCO-listed documents.
+
+- **`saved_texts/`**  
+  Contains the full dataset of UNESCO World Heritage site descriptions.  
+  ⚠️ Due to file count limitations in some environments (1,000 files per folder), additional files are placed in the `saved_texts2/` folder.  
+  Please move the contents of `saved_texts2/` into `saved_texts/` before running the program.
+
+- **`test_dataset/`**  
+  A small evaluation dataset containing 40 selected UNESCO World Heritage site files for testing purposes.
+
 ---
 
 ## Python Files Overview
