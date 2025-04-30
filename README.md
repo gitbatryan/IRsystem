@@ -46,7 +46,7 @@ These documents were either crawled programmatically or manually collected and s
 - **`test_dataset/`**  
   A small evaluation dataset containing 40 selected UNESCO World Heritage site files for testing purposes.
 
-  ### Ground Truth for Evaluation
+### Ground Truth for Evaluation
 
 Each search model is evaluated using ground truth files that specify relevant documents for each query.
 
