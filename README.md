@@ -60,7 +60,7 @@ Before running the LSI system, make sure to install the required Python packages
 
 ```bash
 pip install numpy scikit-learn
-
+```
 
 ---
 
